@@ -7,4 +7,4 @@ OpenMCU-ru project:
 OpenMCU original project (now abandoned):
   * updated by: Craig Southeren, 6 March 2006
   * author: Roger Hardiman, 20 June 2001
-  * homepage: http://www.voxgratia.org/
+  * homepage: https://sourceforge.net/projects/openh323/files/openmcu/
